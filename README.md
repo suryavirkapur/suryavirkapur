@@ -18,7 +18,7 @@ My name is Suryavir, I am a 15 year old freelancer that just enjoys the world of
 ## What I'm working on
 
 - [Essentials](https://essentialsbot.com) - A simple yet powerful Discod Bot.
-- [Cync](https://cync.pro - My personal portfolio, made using Vue.js and Tailwind CSS. 
+- [Cync](https://cync.pro) - My personal portfolio, made using Vue.js and Tailwind CSS. 
 
 ## Things I'm good at
 
