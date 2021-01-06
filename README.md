@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 
 My name is Suryavir, I am a 15 year old freelancer that just enjoys the world of programming. I usually lurk around discord (`Cync7X#7777`) all day, or I'm out with my family or doing whatever. 
 
-## What I'm working on
-
-- [Essentials](https://essentialsbot.com) - A simple yet powerful Discod Bot.
-- [Cync](https://cync.pro) - My personal portfolio, made using Vue.js and Tailwind CSS. 
-
 ## Things I'm good at
 
 - Being an idiot (ask my friends)
@@ -28,5 +23,5 @@ My name is Suryavir, I am a 15 year old freelancer that just enjoys the world of
 
 I also make some random NPM packages, but thats for you to search for on NPM, I'd rather not show my shitty code that I made months ago.
 
-Credits for Design: [Sxmurai](https://github.com/Sxmurai)
+
 
