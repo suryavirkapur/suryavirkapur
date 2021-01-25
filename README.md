@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Suryavir, I am a 15 year old freelancer that just enjoys the world of programming. I usually lurk around discord (`Cync7X#7777`) all day, or I'm out with my family or doing whatever. 
+My name is Suryavir, I am a 15 year old freelancer that just enjoys the world of programming. I usually lurk around discord all day, or I'm out with my family or doing whatever. 
 
 ## Things I'm good at
 
